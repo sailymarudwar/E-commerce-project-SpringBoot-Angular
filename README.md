@@ -13,7 +13,7 @@ Instructions to run the project:
  
  2) Once the db is created, please run the PopulateDB_ecommerce.java from the package cs.roosevelt.onlineshop.populate to populate the daatabase. 
  
- Directory for it:   \online-shop-master.zip\online-shop\src\main\java\cs\roosevelt\onlineshop\populate 
+    Directory for it:   \online-shop-master.zip\online-shop\src\main\java\cs\roosevelt\onlineshop\populate 
  
  
  3) To run the front end: 
